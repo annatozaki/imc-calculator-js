@@ -26,6 +26,7 @@ A ideia foi desenvolver uma pequena calculadora de IMC com Javascript
 Para rodar o projeto inicial é simples! Basta possuir um editor. Demos preferência ao [VSCode](https://code.visualstudio.com/) com a extensão do [Live Server](https://medium.com/collabcode/liveserver-vscode-pode-te-salvar-um-bom-tempo-bdb6ddcc0ca) instalado.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57c1c0e6-82fa-4b36-a79e-4e11352759d7/deploy-status)](https://app.netlify.com/sites/rednerdimc/deploys)
 
 
 
