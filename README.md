@@ -1,5 +1,5 @@
 ![Queen](./assets/img/queenn.png)
-# **Tabela IMC** 🎲
+# **Tabela IMC** 🏋️‍♀️
 
 ## 📌 Um pequeno projeto desenvolvido no curso de Javascript na [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 A ideia foi desenvolver uma pequena calculadora de IMC com Javascript
